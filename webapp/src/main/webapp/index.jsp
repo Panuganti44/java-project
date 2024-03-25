@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> via application </h1> </center>   
+    <center> <h1> student application </h1> </center>   
     <form>  
         <div class="container">   
             <label>visa username : </label>   
